@@ -194,3 +194,9 @@ Charts and graphs provide an easy-to-understand visual representation of student
 Teachers and administrators can generate structured result reports for academic records, review, and documentation.
 8. Centralized Result Management
 Student, subject, class, and CT result information can be maintained i
+_________________
+TEAM MEMBER NAME
+•Abhyash Singh(LEADER) 
+•Jhonson lahre
+•Dhanvi shah
+•Manisha kumari
